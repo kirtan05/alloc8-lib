@@ -1,0 +1,16 @@
+# Ignore CSV files
+*.csv
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore image files (JPG format)
+*.jpg
+*.jpeg
+
+# Ignore PDF files
+*.pdf
+
+# Ignore the environment folder (virtual environment)
+env/
+
