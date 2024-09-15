@@ -13,4 +13,4 @@
 
 # Ignore the environment folder (virtual environment)
 env/
-
+.ipynb_checkpoints/
